@@ -1,8 +1,11 @@
 ---
+layout: default
 title: Home
-layout: home
+nav_order: 1
+description: "Home page"
+permalink: /
 ---
 
 Mobile phone SOM based compute, sensor & comms platform for ai and robotics application
 
-*[getting_started]*
+[Getting started]({% link getting_started.md %})
