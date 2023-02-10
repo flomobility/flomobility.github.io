@@ -2,10 +2,10 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Home page"
+description: "Flo Edge home page"
 permalink: /
 ---
 
 Mobile phone SOM based compute, sensor & comms platform for ai and robotics application
 
-[Getting started]({% link getting_started.md %})
+- [Getting started]({% link docs/getting_started.md %})
