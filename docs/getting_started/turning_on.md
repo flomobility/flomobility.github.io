@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Getting started
-nav_order: 3
+title: Turning on
+parent: Getting Started
+nav_order: 1
 ---
-# Getting started
 
 ## Turning on
 1. Connect power source.

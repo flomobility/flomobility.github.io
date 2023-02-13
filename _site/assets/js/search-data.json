@@ -1,0 +1,79 @@
+{"0": {
+    "doc": "Electrical Specifications",
+    "title": "Electrical Specifications",
+    "content": "TODO . ",
+    "url": "/docs/hardware/electrical.html",
+    
+    "relUrl": "/docs/hardware/electrical.html"
+  },"1": {
+    "doc": "Getting Started",
+    "title": "Getting started",
+    "content": " ",
+    "url": "/docs/getting_started#getting-started",
+    
+    "relUrl": "/docs/getting_started#getting-started"
+  },"2": {
+    "doc": "Getting Started",
+    "title": "Getting Started",
+    "content": " ",
+    "url": "/docs/getting_started",
+    
+    "relUrl": "/docs/getting_started"
+  },"3": {
+    "doc": "Hardware Specifications",
+    "title": "Hardware Specifications",
+    "content": " ",
+    "url": "/docs/hardware",
+    
+    "relUrl": "/docs/hardware"
+  },"4": {
+    "doc": "Home",
+    "title": "What is Flo Edge",
+    "content": "Flo Edge is a compute, sensor &amp; comms platform for ai and robotics application. ",
+    "url": "/#what-is-flo-edge",
+    
+    "relUrl": "/#what-is-flo-edge"
+  },"5": {
+    "doc": "Home",
+    "title": "Specifications:",
+    "content": "Compute and memory . | Chipset | Qualcomm Snapdragon 845 (10 nm) | . | Architecture | 64 bit | . | CPU | Octa-core (4x2.8 GHz Kryo 385 Gold &amp; 4x1.8 GHz Kryo 385 Silver) | . | GPU | Qualcomm Adreno 630 | . | DSP | Qualcomm Hexagon 685 | . | RAM | 6GB | . | Storage | 128GB (UFS 2.1) | . Sensors and others . | Cameras | 12 MP f/1.9 1/2.55 1.4µm dual pixel PDAF | . | IMU | 9 axis (accelerometrt + gyroscope + magnetometer) | . | GNSS | GLONASS, Beidou, GPS, QZSS, Galileo | . | Misc | Yes | . | Sound | Yes | . Comms . | Network | GSM/HSPA/LTE | . | WLAN | Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA | . | USB | USB Type-C 2.0, OTG | . Software . | OS | Debian 10 (Buster) | . Hardware . | Electrical Specifications | Mechanical Specifications | . ",
+    "url": "/#specifications",
+    
+    "relUrl": "/#specifications"
+  },"6": {
+    "doc": "Home",
+    "title": "Flo Edge Attachment",
+    "content": "Attachment for ease of use of Flo Edge . ",
+    "url": "/#flo-edge-attachment",
+    
+    "relUrl": "/#flo-edge-attachment"
+  },"7": {
+    "doc": "Home",
+    "title": "Home",
+    "content": "TODO: Add Flo Edge banner . ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"8": {
+    "doc": "Mechanical Specifications",
+    "title": "Mechanical Specifications",
+    "content": "TODO . ",
+    "url": "/docs/hardware/mechanical.html",
+    
+    "relUrl": "/docs/hardware/mechanical.html"
+  },"9": {
+    "doc": "Turning on",
+    "title": "Turning on",
+    "content": ". | Connect power source. | Led on Flo Edge attachment will start blinking red. | When led becomes solid green Flo Edge is up and running. | Connect to Flo Edge hostpot (ssid: “FloEdge”, password: “FloEdge”) | ssh to Flo Edge using cmd {ssh root@192.168.43.1 -p 2222} | Now you are in a preconfigure debian OS for robotics and ai application. | . ",
+    "url": "/docs/getting_started/turning_on.html",
+    
+    "relUrl": "/docs/getting_started/turning_on.html"
+  },"10": {
+    "doc": "Turning on",
+    "title": "Turning off",
+    "content": ". | Long press the power button on Flo Edge attachment | Led on Flo Edge attachment will start blinking green. | When Flo Edge is turned off led will become solid red. | . ",
+    "url": "/docs/getting_started/turning_on.html#turning-off",
+    
+    "relUrl": "/docs/getting_started/turning_on.html#turning-off"
+  }
+}
