@@ -9,7 +9,7 @@ permalink: /
 TODO: Add Flo Edge banner
 
 ## What is Flo Edge
-Flo Edge is a compute, sensor & comms platform for ai and robotics application.
+Flo Edge is a compute, sensor & comms platform for ai and robotics application. It comes pre installed with most of the commonly used tools and packages for robotics and ai application (i.e. ROS1, ROS2, OpenCv, zmq, ceres, sophus, g2o etc) and anx_inteface which provides access to devices resources (like device camera, imu, gnss ets).
 
 ## Specifications:
 ### Compute and memory
@@ -47,6 +47,3 @@ Flo Edge is a compute, sensor & comms platform for ai and robotics application.
 ### Hardware
 1. [Electrical Specifications]({% link docs/hardware/electrical.md %})
 2. [Mechanical Specifications]({% link docs/hardware/mechanical.md %})
-
-## Flo Edge Attachment
-Attachment for ease of use of Flo Edge
