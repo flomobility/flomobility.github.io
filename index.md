@@ -20,7 +20,7 @@ Flo Edge is a compute, sensor & comms platform for ai and robotics application.
 ## Specifications:
 ### Compute and memory
 | x            | Specification                                                   |
-|--------------|-----------------------------------------------------------------|
+|:-------------|:----------------------------------------------------------------|
 | Chipset      | Qualcomm Snapdragon 845 (10 nm)                                 |
 | Architecture | 64 bit                                                          |
 | CPU          | Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver) |
@@ -30,24 +30,25 @@ Flo Edge is a compute, sensor & comms platform for ai and robotics application.
 | Storage      | 128GB (UFS 2.1)                                                 |
 
 ### Sensors and others
-|    x    |                   Specification                   |
+| x       | Specification                                     |
 |:--------|:--------------------------------------------------|
-| Cameras |     12 MP f/1.9 1/2.55 1.4µm dual pixel PDAF      |
-|   IMU   | 9 axis (accelerometrt + gyroscope + magnetometer) |
-|  GNSS   |        GLONASS, Beidou, GPS, QZSS, Galileo        |
-|  Misc   |                        Yes                        |
-|  Sound  |                        Yes                        |
+| Cameras | 12 MP f/1.9 1/2.55 1.4µm dual pixel PDAF          |
+| IMU     | 9 axis (accelerometrt + gyroscope + magnetometer) |
+| GNSS    | GLONASS, Beidou, GPS, QZSS, Galileo               |
+| Misc    | Yes                                               |
+| Sound   | Yes                                               |
 
 ### Comms
-|    x    |                     Specification                      |
+| x       | Specification                                          |
 |:--------|:-------------------------------------------------------|
-| Network |                      GSM/HSPA/LTE                      |
-|  WLAN   | Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA |
-|   USB   |                  USB Type-C 2.0, OTG                   |
+| Network | GSM/HSPA/LTE                                           |
+| WLAN    | Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA |
+| USB     | USB Type-C 2.0, OTG                                    |
 
 ### Software
-"x","Specification"
-"OS","Debian 10 (Buster)"
+| x  | Specification      |
+|:---|:-------------------|
+| OS | Debian 10 (Buster) |
 
 ### Hardware
 1. [Electrical Specification]({% link docs/hardware/electrical.md %})
