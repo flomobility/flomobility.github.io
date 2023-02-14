@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Turning on
+title: Booting
 parent: Getting Started
 nav_order: 1
 ---

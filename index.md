@@ -9,7 +9,9 @@ permalink: /
 TODO: Add Flo Edge banner
 
 ## What is Flo Edge
-Flo Edge is a compute, sensor & comms platform for ai and robotics application. It comes pre installed with most of the commonly used tools and packages for robotics and ai application (i.e. ROS1, ROS2, OpenCv, zmq, ceres, sophus, g2o etc) and anx_inteface which provides access to devices resources (like device camera, imu, gnss ets).
+Flo Edge is a compute, sensor & comms platform for ai and robotics application.
+
+It comes pre installed with ubuntu 20.04 with most of the commonly used tools and packages for robotics and ai application (i.e. ROS1, ROS2, OpenCv, zmq, ceres, sophus, g2o etc) and anx_inteface which provides access to devices resources (like device camera, device imu, device gnss ets).
 
 ## Specifications:
 ### Compute and memory
@@ -38,11 +40,6 @@ Flo Edge is a compute, sensor & comms platform for ai and robotics application. 
 | Network | GSM/HSPA/LTE                                           |
 | WLAN    | Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA |
 | USB     | USB Type-C 2.0, OTG                                    |
-
-### Software
-
-|:---|:-------------------|
-| OS | Debian 10 (Buster) |
 
 ### Hardware
 1. [Electrical Specifications]({% link docs/hardware/electrical.md %})
