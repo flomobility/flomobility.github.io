@@ -56,4 +56,15 @@
     {% endif %}
   </nav>
 
+  {% capture nav_footer_custom %}
+    {%- include nav_footer_custom.html -%}
+  {% endcapture %}
+  {% if nav_footer_custom != "" %}
+    {{ nav_footer_custom }}
+  {% else %}
+    <footer class="site-footer">
+      If you are facing any issue raise it <a href="https://github.com/flomobility/flomobility.github.io/issues">here</a>.
+    </footer>
+  {% endif %}
+
 </div>
