@@ -2,14 +2,8 @@
 layout: default
 title: Miscellaneous Apis
 parent: Getting Started
-nav_order: 3
+nav_order: 5
 ---
 
 - TODO: GetImeiNumber 
-- TODO: GetPhoneNumber
-- TODO: Shutdown
-- TODO: Reboot
-- TODO: Tts
-- TODO: GetAvailableLanguages
-- TODO: IsTtsBusy
-- TODO: SetWifi
+- Reff help for detailed apidocs

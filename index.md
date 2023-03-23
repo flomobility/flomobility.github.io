@@ -40,7 +40,3 @@ It comes pre installed with ubuntu 20.04 with most of the commonly used tools an
 | Network | GSM/HSPA/LTE                                           |
 | WLAN    | Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA |
 | USB     | USB Type-C 2.0, OTG                                    |
-
-### Hardware
-1. [Electrical Specifications]({% link docs/hardware/electrical.md %})
-2. [Mechanical Specifications]({% link docs/hardware/mechanical.md %})
