@@ -5,5 +5,6 @@ parent: Hardware Specifications
 nav_order: 2
 ---
 
-TODO
-
+* TODO: Dimensions
+* TODO: Weight
+* TODO: Ip ratting
