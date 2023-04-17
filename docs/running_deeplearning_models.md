@@ -19,19 +19,16 @@ permalink: /docs/running_deeplearning_models
   # success is true if model loaded correctly else false
   success = tflite_interface.load_model("/path/to/model.tflite")
   ```
-
 2. Set inputs
  
   ```python
   tflite_interface.set_input([input1, input2, ...])
   ```
-  
 3. Invoke model
 
   ```python
   tflite_interface.invoke()
   ```
-
 4. Get output
 
   ```python
