@@ -2,7 +2,6 @@
 layout: default
 title: Booting and shutting down
 nav_order: 3
-has_children: true
 permalink: /docs/booting_and_shutting_down
 ---
 
