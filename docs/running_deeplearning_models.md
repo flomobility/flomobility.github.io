@@ -10,6 +10,7 @@ permalink: /docs/running_deeplearning_models
 `[inputs] --> model.tflite --> [outputs]`
 
 1. Load model
+
   ```python
   from anx_interface import TfliteInterface, DeviceType
   
