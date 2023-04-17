@@ -7,5 +7,5 @@ permalink: /docs/hardware
 
 # Hardware Specifications
 
-![flo_edge_labeled](asset/images/flo_edge_labeled.svg)
+![flo_edge_labeled](assets/images/flo_edge_labeled.svg)
 
