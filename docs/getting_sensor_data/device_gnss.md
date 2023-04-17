@@ -8,7 +8,6 @@ nav_order: 1
 # Device GNSS
 
 ```python
-import numpy as np
 from anx_interface import Anx
 
 def gnss_cb(data):

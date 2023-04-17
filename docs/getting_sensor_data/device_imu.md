@@ -8,7 +8,6 @@ nav_order: 2
 # Device IMU
 
 ```python
-import numpy as np
 from anx_interface import Anx
 
 def imu_cb(data):
