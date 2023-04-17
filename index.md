@@ -6,7 +6,7 @@ description: "Flo Edge home page"
 permalink: /
 ---
 
-TODO: Add Flo Edge banner
+![](assets/images/flo_edge.png)
 
 ## What is Flo Edge
 Flo Edge is a compute, sensor & comms platform for ai and robotics application.
