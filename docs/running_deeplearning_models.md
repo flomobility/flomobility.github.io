@@ -10,6 +10,7 @@ permalink: /docs/running_deeplearning_models
 `[inputs] --> model.tflite --> [outputs]`
 
 1. Load model
+
   ```python
   from anx_interface import TfliteInterface, DeviceType
 
@@ -18,16 +19,19 @@ permalink: /docs/running_deeplearning_models
   ```
 
 2. Set inputs
+ 
   ```python
   tflite_interface.set_input([input1, input2, ...])
   ```
   
 3. Invoke model
+
   ```python
   tflite_interface.invoke()
   ```
 
 4. Get output
+
   ```python
   output1, output2, ... = tflite_interface.get_output()
   ```
