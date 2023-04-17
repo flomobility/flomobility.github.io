@@ -13,7 +13,7 @@ permalink: /docs/running_deeplearning_models
   ```python
   from anx_interface import TfliteInterface, DeviceType
   tflite_interface = TfliteInterface(DeviceType.GPU)
-  # success is true if model loaded correctly else false
+  # success is True if model loaded correctly else False
   success = tflite_interface.load_model("/path/to/model.tflite")
   ```
 2. Set inputs
