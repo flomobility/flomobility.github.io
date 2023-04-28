@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Device GNSS
-parent: Getting sensor data
+parent: Accessing onboard sensors
 nav_order: 1
 ---
 

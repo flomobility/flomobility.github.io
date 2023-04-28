@@ -7,6 +7,6 @@ permalink: /docs/anx
 
 # anx
 
-> anx is a cli tool to interact FloEdge (i.e. reboot, shutdown, stream_imu etc...). Try `anx --help` to know more about it.
+> anx is a cli tool to interact with FloEdge (i.e. reboot, shutdown, stream_imu etc...). Try `anx --help` to know more about it.
 
 
