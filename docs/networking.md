@@ -14,7 +14,7 @@ Out of the box you'd be able to access Flo Edge via it's hotspot or USB Tetherin
 - Password for root user is `flo@123`. Can later be changed with `passwd`
 
 ## USB Tethering
-> Flo Edge has a static IP of `19.168.42.129` when tethered via USB
+> Flo Edge has a static IP of `192.168.42.129` when tethered via USB
 
 1. Firstly, power on Flo Edge and wait for it to boot completely
 2. Connect a type-C to USB-A cable between Flo Edge and your computer
@@ -24,10 +24,10 @@ Out of the box you'd be able to access Flo Edge via it's hotspot or USB Tetherin
     ```
 
 ## Wireless Hotspot
-> Flo Edge has a static IP of `19.168.43.1` when tethered via USB
+> Flo Edge has a static IP of `192.168.43.1` when connected over hotspot
 
 1. Power on Flo Edge and wait for it to boot completely
-2. Connect your computer to the network `Flo Edge One`
+2. Connect your computer to the network `Flo Edge One`. Password is `floedge123`
 3. `ssh` into Flo Edge via terminal as `root` user
     ```bash
     ssh root@192.168.43.1
