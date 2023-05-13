@@ -2,14 +2,14 @@
 layout: default
 title: GNSS Module
 parent: Accessing onboard sensors
-nav_order: 1
+nav_order: 3
 ---
 
 # Device GNSS
 
 The on board GNSS module has connectivity with the following satellite systems: QZSS, Galileo, Beidou, SBAS, GLONASS, GPS
 
-## Stream data
+## Streaming data
 > Each data frame is an [NMEA 0183](https://en.wikipedia.org/wiki/NMEA_0183) sentence
 
 Here's an example using the pre installed SDK to stream gnss data. 

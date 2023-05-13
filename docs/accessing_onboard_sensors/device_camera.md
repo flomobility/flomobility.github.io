@@ -2,7 +2,7 @@
 layout: default
 title: Camera
 parent: Accessing onboard sensors
-nav_order: 3
+nav_order: 2
 ---
 
 # Device Camera
