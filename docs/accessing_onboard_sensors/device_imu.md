@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Device IMU
+title: IMU
 parent: Accessing onboard sensors
 nav_order: 2
 ---

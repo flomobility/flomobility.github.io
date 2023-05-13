@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Device GNSS
+title: GNSS Module
 parent: Accessing onboard sensors
 nav_order: 1
 ---
