@@ -7,9 +7,7 @@ permalink: /docs/running_deeplearning_models
 
 # Running deeplearning models
 
-Flo Edge has out of the box capabilities for Deep learning. It comes equipped with Qualcomm's Adreno 640 GPU and Hexagon 685 DSP.
-
-Flo Edge comes pre installed with an SDK to harness the compute of both the GPU and DSP.
+Flo Edge has out of the box capabilities for Deep learning. It comes equipped with Qualcomm's Adreno 630 GPU and Hexagon 685 DSP along with an SDK to harness their compute.
 
 ## Important
 ### Inferencing
@@ -46,4 +44,4 @@ The following code snippets should help you understand using the SDK to inferenc
   ```
 
 ## Examples
-We've added a couple of well known models like YOLO, MiDAS, etc to our examples repo. All inferenced on the Flo Edge. You can check them out [here](https://github.com/flomobility/floedge_examples/tree/master/ai)
+Be sure to check out our [examples repo](https://github.com/flomobility/floedge_examples/tree/master/ai).We've added example scripts to run well known models like YOLO v5, MiDAS, etc.
