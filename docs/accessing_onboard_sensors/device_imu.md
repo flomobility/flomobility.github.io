@@ -7,6 +7,10 @@ nav_order: 2
 
 # Device IMU
 
+With Flo Edge, you get access to a pre calibrated 9 axis IMU.
+
+## Create a stream
+You can stream both filtered and raw data upto 200 Hz. Here's an simple example to illustrate that.
 ```python
 from anx_interface import Anx
 
