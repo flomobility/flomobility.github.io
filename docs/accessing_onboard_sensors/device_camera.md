@@ -7,7 +7,7 @@ nav_order: 2
 
 # Device Camera
 
-Flo Edge comes with a 12 MP camera. To access this, you can either use the pre installed [cli tool](/docs/anx) or via the SDK with the following example.
+Flo Edge comes with a 12 MP (4032 x 3024) RGB rolling shutter camera (max fps: 30). To access this, you can either use the pre installed [cli tool](/docs/anx) or via the SDK with the below example.
 
 ## Available Streams
 The anx cli tool can help you out here.

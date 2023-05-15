@@ -28,7 +28,7 @@ It comes pre installed with ubuntu 22.04 with most of the commonly used tools an
 ### Sensors and others
 
 |---------|----------------------------------------------------------------------------|
-| Cameras | 12 MP f/1.9 1/2.55 1.4µm dual pixel PDAF                                   |
+| Camera  | 12 MP f/1.9 1/2.55 1.4µm dual pixel PDAF                                   |
 | IMU     | 9 axis (accelerometer(BMI160) + gyroscopei(BMI160) + magnetometer(ak0991)) |
 | GNSS    | GLONASS, Beidou, GPS, QZSS, Galileo                                        |
 
