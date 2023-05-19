@@ -6,7 +6,7 @@ description: "Flo Edge home page"
 permalink: /
 ---
 
-![](/assets/images/flo_edge.png)
+<iframe src="https://flomobility.autodesk360.com/shares/public/SHd38bfQT1fb47330c997b6bf74e77ff71c5?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## What is Flo Edge
 Flo Edge is a compute, sensor & comms platform for ai and robotics application.
